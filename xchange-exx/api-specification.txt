@@ -1,0 +1,8 @@
+EXX.com Exchange API specification
+================================
+
+Public API
+
+Documentation
+-------------
+https://www.exx.com/help/restApi
